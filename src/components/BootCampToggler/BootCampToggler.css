@@ -1,0 +1,67 @@
+.togglerContainer {
+  margin-top: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.colorPurple {
+  color: #4e3797;
+}
+
+.bg-toggler {
+  background-color: #f5f6fa;
+  flex-direction: row-reverse;
+  display: flex;
+  align-items: center;
+  width: 70%;
+  border-radius: 10px;
+  gap: 2rem;
+  justify-content: space-between;
+  padding: 2rem 4rem;
+  flex-wrap: wrap;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.bg-toggler div {
+  display: flex;
+  gap: 2rem;
+}
+.btn {
+  padding: 0.5rem;
+  width: 15rem;
+  border-radius: 9999px;
+  border: 0px;
+  background-color: white;
+  color: #4e3797;
+  font-size: 1.25em;
+}
+
+.btn.active {
+  background-color: #4e3797;
+  color: white;
+}
+.btn:hover {
+  background-color: #4e3797;
+  color: white;
+  cursor: pointer;
+}
+
+.iconWrapper {
+  background-color: #98a2b3;
+  border-radius: 50%;
+  padding: 1rem;
+}
+
+.iconWrapper:hover {
+  background-color: #4e3797;
+  cursor: pointer;
+}
+.icon {
+  width: 25px;
+  height: 25px;
+}
+
+/* @media only screen and (max-width: 1300px) {
+  .togglerContainer {
+    position: relative;
+  }
+} */
