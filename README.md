@@ -1,8 +1,8 @@
-# React + Vite
+# Clone Tuwaiq bootcamps page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/Alhaqbani21/reactHomeWork1/assets/94962409/469127c8-95ec-4b39-af48-4ae0057fb13f)
+![image](https://github.com/Alhaqbani21/reactHomeWork1/assets/94962409/55155e67-031f-49f2-8214-3e5dfa4532d0)
+![image](https://github.com/Alhaqbani21/reactHomeWork1/assets/94962409/4e9c57c1-6d63-4b8b-bcca-1924b6f1c651)
+
